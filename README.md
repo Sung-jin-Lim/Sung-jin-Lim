@@ -44,6 +44,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+[![Sungjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sung-jin-Lim)](https://github.com/Sung-jin-Lim/github-readme-stats)
 
 </details>
