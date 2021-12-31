@@ -2,11 +2,9 @@
 
 ## Student, Frontend, Junior, Webdeveloper
 
-- 🔭
-- 🌱
-- 👯
-- 🥅
-- ✨
+- 🕶️ Learning
+- 📙 Reading
+- ✨ ...
 
 <br />
 
