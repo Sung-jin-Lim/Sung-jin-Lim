@@ -1,12 +1,12 @@
 ### Hi there, I'm Sungjin👋
 
-## Student, Frontend Junior Webdeveloper
+## Student, Frontend, Junior, Webdeveloper
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭
+- 🌱
+- 👯
+- 🥅
+- ✨
 
 <br />
 
@@ -47,6 +47,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <!-- <img align="left" alt="Sungjin Lim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
+  <img align="left" alt="Sungjin Lim's GitHub Stats" src="https://github-readme-stats.sungjinlim.vercel.app/api?username=Sung-jin-Lim&show_icons=true&hide_border=true" />
 
 </details>
