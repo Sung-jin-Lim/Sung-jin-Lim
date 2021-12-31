@@ -39,6 +39,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sungjin Lim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sung-jin-Lim)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="left" alt="Sungjin Lim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sung-jin-Lim" />
 
 </details>
