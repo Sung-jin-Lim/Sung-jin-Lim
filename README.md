@@ -1,6 +1,6 @@
 ### Hi there, I'm Sungjin👋
 
-## Student, Frontend, Junior, Webdeveloper
+## Student, Frontend, 
 
 - 🕶️ Learning
 - 📙 Reading
