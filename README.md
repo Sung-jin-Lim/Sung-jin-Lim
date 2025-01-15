@@ -27,6 +27,4 @@
 
 ---
 
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sungjin Lim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sung-jin-Lim" />
